@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.ariane": true,
+    ".vscode": true,
+    "**/.vscode": true,
+    ".githooks": false,
+    "**/.gitkeep": true,
+    "test-output-lc.json": true,
+    "ariane-config.json": false,
+  },
+  "git.mergeEditor": false
+}
